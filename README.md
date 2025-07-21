@@ -57,9 +57,9 @@ Helps in understanding the impact of overfitting, regularization, and ensemble l
 ## 💻 Tech Stack:
 
 * Python
-* Pandas, NumPy
+* Pandas
 * Scikit-Learn
-* Matplotlib, Seaborn
+* Xgboost, Lightgbm
 * VS code 
 
 ---
