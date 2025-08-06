@@ -1,9 +1,9 @@
 
-# 🏡 Housing Price Prediction — Multi-Model Regression Project
+#  Housing Price Prediction — Multi-Model Regression Project
 
 This project demonstrates the application of various regression models on a single housing dataset to predict house prices. The goal is to compare performance across different models and understand their behavior on the same dataset.
 
-## 📊 Models Implemented:
+##  Models Implemented:
 
 * **Linear Regression**
 * **Ridge Regression**
@@ -17,7 +17,7 @@ This project demonstrates the application of various regression models on a sing
 
 ---
 
-## 🛠️ Project Workflow:
+##  Project Workflow:
 
 1. **Data Loading & Exploration**
 
@@ -47,14 +47,14 @@ This project demonstrates the application of various regression models on a sing
 
 ---
 
-## 📝 Conclusion:
+##  Conclusion:
 
 This project gives insights into how different regression models perform on the same dataset.
 Helps in understanding the impact of overfitting, regularization, and ensemble learning techniques in regression problems.
 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 * Python
 * Pandas
@@ -64,7 +64,7 @@ Helps in understanding the impact of overfitting, regularization, and ensemble l
 
 ---
 
-## 📂 How to Run:
+##  How to Run:
 
 ```bash
 git clone https://github.com/yourusername/housing-regression-project.git  
